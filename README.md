@@ -7,13 +7,14 @@
 <p align="center">📫 Reach me at kerwindows@gmail.com</p>
 <p align="center"> ✨A fun fact about me is that I was a high school teacher for 9 years.</p>
 
+<p align="center"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/html-css-badge.png" height=160> </p>
+
 <p align="center"><b>Connect with me</b> </p>
 
 <p align="center"><img src="https://img.shields.io/badge/LinkedIn-Kerwindows-blue"></p>
 
 <h3 align="center">Languages and tools</h3>
 <p align="center">
- 
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/html.svg" height=60> 
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/css.svg" height=60>    
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/js.svg" height=60> 
