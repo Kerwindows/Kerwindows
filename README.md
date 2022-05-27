@@ -1,15 +1,15 @@
-- 👋 Hi, I’m Kerwin
+# Hi 👋 I’m Kerwin Thompson
+**Full Stack LAMP Developer | Frontend Developer (Javascript), skilled in building fully responsive dynamic web applications**
+
 - 👀 I’m interested in colaborating and learning.
-- 🌱 I’m currently learning the Software Engineering.
 - 💞️ I’m looking to network with other aspiring developers and engineers.
-- 📫 How to reach me kerwindows@hotmail.com
+- 📫 Reach me at kerwindows@gmail.com
+- ✨A fun fact about me is that I was a high school teacher for 9 years.
+
+Connect with me 
+<img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/linkedin.jpg?raw=true">
 
 <!---
 Kerwindows/Kerwindows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-<img src="https://github.com/Sprint-Ninjas/spring-code-jam/blob/main/images/Volunteer-project.png?raw=true" width=300>
-
-### ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
