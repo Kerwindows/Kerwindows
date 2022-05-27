@@ -1,13 +1,26 @@
-# Hi 👋 I’m Kerwin Thompson
-**Full Stack LAMP Developer | Frontend Developer (Javascript), skilled in building fully responsive dynamic web applications**
+<h1 align="center">Hi 👋 I’m Kerwin Thompson</h1>
+  
+<h2 align="center">Full Stack LAMP Developer | Frontend Developer (Javascript), skilled in building fully responsive dynamic web applications</h2>
 
-- 👀 I’m interested in colaborating and learning.
-- 💞️ I’m looking to network with other aspiring developers and engineers.
-- 📫 Reach me at kerwindows@gmail.com
-- ✨A fun fact about me is that I was a high school teacher for 9 years.
+<p align="center"> 👀 I’m interested in colaborating and 💞️ networking with other developers and engineers.</p>
+<p align="center">📫 Reach me at kerwindows@gmail.com</p>
+<p align="center"> ✨A fun fact about me is that I was a high school teacher for 9 years.</p>
 
-Connect with me 
-<img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/linkedin.jpg?raw=true">
+<p align="center"><b>Connect with me</b> </p>
+
+<p align="center"><img src="https://img.shields.io/badge/LinkedIn-Kerwindows-blue"></p>
+
+<h3 align="center">Languages and tools</h3>
+<p align="center">
+ 
+  <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/html.svg" height=60> 
+  <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/css.svg" height=60>    
+  <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/js.svg" height=60> 
+  <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/php.svg" height=60> 
+  <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/git.svg" height=60> 
+  <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/figma.svg" height=60> 
+  <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/photoshop.svg" height=60> 
+</p>
 
 <!---
 Kerwindows/Kerwindows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
