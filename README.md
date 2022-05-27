@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kerwindows
-- 👀 I’m interested in colaborating and learning
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on something
+- 👋 Hi, I’m Kerwin
+- 👀 I’m interested in colaborating and learning.
+- 🌱 I’m currently learning the Software Engineering.
+- 💞️ I’m looking to network with other aspiring developers and engineers.
 - 📫 How to reach me kerwindows@hotmail.com
 
 <!---
