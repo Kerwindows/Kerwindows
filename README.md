@@ -7,7 +7,7 @@
 <p align="center">📫 Reach me at kerwindows@gmail.com</p>
 <p align="center"> ✨A fun fact about me is that I was a high school teacher for 9 years.</p>
 
-<p align="center"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/html-css-badge.png" height=160> </p>
+<p align="center"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/Front-end_Engineer_1657112634.png?raw=true" height=160> </p>
 
 <p align="center"><b>Connect with me</b> </p>
 
