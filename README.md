@@ -18,7 +18,7 @@
 
 <h3 align="center">Languages and tools</h3>
 <p align="center">
-  <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/html.svg" height=60> 
+  <img title='html' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/html.svg" height=60> 
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/css.svg" height=60>    
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/js.svg" height=60> 
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/php.svg" height=60> 
