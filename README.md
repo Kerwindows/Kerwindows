@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I’m Kerwin Thompson</h1>
   
-<h2 align="center">Full Stack LAMP Developer | Frontend Software Engineer (Javascript)</h2>
+<h2 align="center">Full Stack LAMP Developer | React Developer</h2>
 <h3 align="center">Skilled in building fully responsive dynamic web applications</h3>
 
 <p align="center"> 👀 I’m interested in colaborating and 💞️ networking with other developers and engineers.</p>
