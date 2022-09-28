@@ -7,8 +7,9 @@
 <p align="center">📫 Reach me at kerwindows@gmail.com</p>
 <p align="center"> ✨A fun fact about me is that I was a high school teacher for 9 years.</p>
 
-<p align="center"><span align="center"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/Front-end_Engineer_1657112634.png" height=160> </span>
-<span align="center"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/Image.png" height=160> </span></p>
+<p align="center">
+  <img align="center" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png" height=160><img align="center" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png" height=160>
+  </p>
 
 
 <p align="center"><b>Connect with me</b> </p>
@@ -23,6 +24,8 @@
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/php.svg" height=60> 
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/git.svg" height=60> 
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/webpack.png" height=60> 
+  <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react.png" height=60> 
+  <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/node.jpg" height=60> 
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/figma.svg" height=60> 
   <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/photoshop.svg" height=60> 
   
