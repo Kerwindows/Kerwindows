@@ -19,21 +19,30 @@
 <p align="center"><img src="https://img.shields.io/badge/LinkedIn-Kerwindows-blue"></p>
 
 <h3 align="center">Languages and tools</h3>
-<p align="center">
-  <img title='html' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/html.svg" height=60> 
-  <img title='CSS' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/css.svg" height=60>    
-  <img title='Javascript' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/js.svg" height=60> 
-  <img  title='PHP' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/php.svg" height=60> 
-  <img  title='Photoshop' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/mysql.png" height=60> 
-  <img  title='Git' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/git.svg" height=60> 
-  <img  title='Webpack' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/webpack.png" height=60> 
-  <img  title='ReactJS' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react.png" height=60> 
-  <img  title='Node' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/node.jpg" height=60> 
-  <img  title='Figma' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/figma.svg" height=60> 
-  <img  title='Photoshop' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/photoshop.svg" height=60> 
-  
-</p>
 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ <img  title='Photoshop' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/mysql.png" height=40> 
+ <img  title='Webpack' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/webpack.png" height=40> 
+ <img  title='Figma' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/figma.svg" height=40> 
+  <img  title='Photoshop' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/photoshop.svg" height=40> 
+</div>
+<hr/>
+<div align="center">
+ 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kerwindows&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+</div>
 <!---
 Kerwindows/Kerwindows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
