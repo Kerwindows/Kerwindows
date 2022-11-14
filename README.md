@@ -24,6 +24,7 @@
   <img title='CSS' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/css.svg" height=60>    
   <img title='Javascript' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/js.svg" height=60> 
   <img  title='PHP' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/php.svg" height=60> 
+  <img  title='Photoshop' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/mysql.png" height=60> 
   <img  title='Git' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/git.svg" height=60> 
   <img  title='Webpack' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/webpack.png" height=60> 
   <img  title='ReactJS' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react.png" height=60> 
