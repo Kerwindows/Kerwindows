@@ -33,6 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  <img  title='Photoshop' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/mysql.png" height=40> 
+ <img  title='PHP' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height=40> 
  <img  title='Webpack' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/webpack.png" height=40> 
  <img  title='Figma' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/figma.svg" height=40> 
   <img  title='Photoshop' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/photoshop.svg" height=40> 
