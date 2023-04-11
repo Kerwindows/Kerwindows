@@ -1,5 +1,4 @@
 <h1 align="center"><img align="center" style="border-radius:50%" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/me.png" height=60> Hi 👋 I’m Kerwin Thompson</h1></p>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=kerwindows&style=flat-square&color=blue" alt=""/></p>
 
 <h2 align="center">Full Stack Software Engineer | LAMP | MERN </h2>
 <h3 align="center">Skilled in building fully responsive dynamic web applications</h3>
@@ -79,3 +78,4 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <p>⭐️ Thank you for visiting my profile! Feel free to <a href="https://kerwindows.github.io/kerwinthompson/#contactus">get in touch</a> or connect with me on <a href="https://linkwi/card/kerwinthompson">LinkedIn</a>.</p>
 </div>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=kerwindows&style=flat-square&color=blue" alt=""/></p>
