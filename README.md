@@ -49,27 +49,32 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">🌟 Featured Projects</h3>
 <div align="center">
   <a href="https://trailerview.kerwindows.com">
-    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-1.png" alt="Netflix UI Clone" width="240" height="150"/>
+    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-1.png" alt="Netflix UI Clone | " width="240" height="150"/>
   </a>
   <a href="https://linkwi.co">
-    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-2.png" alt="LinkWi" width="240" height="150"/>
+    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-2.png" alt="LinkWi Networking App | " width="240" height="150"/>
   </a>
   <a href="https://kerwindows.github.io/around-react">
-    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-3.png" alt="Meme Shaing App" width="240" height="150"/>
+    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-3.png" alt="Meme Shaing App | " width="240" height="150"/>
   </a>
+ <a href=" https://scholastica.cyversify.com/">
+    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-3.png" alt="Scholastica SIS App" width="240" height="150"/>
+  </a>
+ 
+
 </div>
 <!-- Recent Blog Posts -->
-<h3 align="center">📝 Recent Blog Posts</h3>
+<!--<h3 align="center">📝 Recent Blog Posts</h3>-->
 <!-- BLOG-POST-LIST:START -->
 
-    My Journey as a Full Stack Developer
+<!--    My Journey as a Full Stack Developer
     Best Practices for React Development
-    Getting Started with Node.js and Express
+    Getting Started with Node.js and Express -->
 
 <!-- BLOG-POST-LIST:END -->
-<div align="center">
+<!--<div align="center">
   <a href="https://www.example.com/blog" target="_blank">👉 View more on my blog</a>
-</div>
+</div>-->
 <!-- Footer -->
 <div align="center">
   <p>⭐️ Thank you for visiting my profile! Feel free to <a href="https://kerwindows.github.io/kerwinthompson/#contactus">get in touch</a> or connect with me on <a href="https://linkwi/card/kerwinthompson">LinkedIn</a>.</p>
