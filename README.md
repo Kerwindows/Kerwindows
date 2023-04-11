@@ -1,6 +1,6 @@
 <h1 align="center"><img align="center" style="border-radius:50%" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/me.png" height=60> Hi 👋 I’m Kerwin Thompson</h1></p>
 
-<h2 align="center">Full Stack Software Engineer | LAMP | MERN </h2>
+<h2 align="center">Full Stack Application Developer | LAMP | MERN </h2>
 <h3 align="center">Skilled in building fully responsive dynamic web applications</h3>
 
 <p align="center"> 👀 I’m interested in collaborating and 💞️ networking with other developers and engineers.</p>
