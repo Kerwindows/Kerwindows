@@ -48,14 +48,14 @@ You can click the Preview link to take a look at your changes.
 <!-- Featured Projects -->
 <h3 align="center">🌟 Featured Projects</h3>
 <div align="center">
-  <a href="https://github.com/Kerwindows/awesome-project-1">
-    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-1.png" alt="Awesome Project 1" width="240" height="150"/>
+  <a href="https://trailerview.kerwindows.com">
+    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-1.png" alt="Netflix UI Clone" width="240" height="150"/>
   </a>
-  <a href="https://github.com/Kerwindows/awesome-project-2">
-    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-2.png" alt="Awesome Project 2" width="240" height="150"/>
+  <a href="https://linkwi.co">
+    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-2.png" alt="LinkWi" width="240" height="150"/>
   </a>
-  <a href="https://github.com/Kerwindows/awesome-project-3">
-    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-3.png" alt="Awesome Project 3" width="240" height="150"/>
+  <a href="https://kerwindows.github.io/around-react">
+    <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/project-3.png" alt="Meme Shaing App" width="240" height="150"/>
   </a>
 </div>
 <!-- Recent Blog Posts -->
@@ -72,5 +72,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 <!-- Footer -->
 <div align="center">
-  <p>⭐️ Thank you for visiting my profile! Feel free to <a href="https://github.com/Kerwindows/Kerwindows/issues/new">get in touch</a> or connect with me on <a href="https://www.linkedin.com/in/kerwindows/">LinkedIn</a>.</p>
+  <p>⭐️ Thank you for visiting my profile! Feel free to <a href="https://kerwindows.github.io/kerwinthompson/#contactus">get in touch</a> or connect with me on <a href="https://linkwi/card/kerwinthompson">LinkedIn</a>.</p>
 </div>
