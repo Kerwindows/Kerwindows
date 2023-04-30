@@ -1,4 +1,4 @@
-| <img align="left" style="border-radius:50%" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/me.png" height=60> |<h1 align="left">Kerwin Thompson  </h1> | 
+| <img align="left" style="border-radius:50%" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/me.png" height=100> |<h1 align="left">Kerwin Thompson  </h1> | 
 | -------- | -------- |
 || <h2 align="left">Full Stack Application Developer</h2> <img align="left" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png" height=100><img align="left" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png" height=100>  |  
 |About | Skilled in building fully responsive dynamic web applications. |
