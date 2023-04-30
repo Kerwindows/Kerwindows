@@ -12,8 +12,6 @@
 |My Portfolio/📝 Blog |<p align="left"><a href="https://www.linkedin.com/in/kerwindows/">www.kerwindows.com</a></p>|
 
 
-
-<hr/>
 <div align="center">
   <h3>:fire: My Stats:</h3>
   <a href="https://git.io/streak-stats">
