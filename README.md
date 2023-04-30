@@ -15,9 +15,12 @@
 
 <hr/>
 <div align="center">
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kerwindows&theme=dark&background=000000)](https://git.io/streak-stats)
+  <h3>:fire: My Stats:</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=kerwindows&theme=dark&background=000000" alt="GitHub Streak">
+  </a>
 </div>
+
 <!-- Footer -->
 <div align="center">
   <p>⭐️ Thank you for visiting my profile! Let's connect.</p>
