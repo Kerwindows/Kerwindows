@@ -13,20 +13,13 @@
 
 
 
-
-
-
-
-
-
 <hr/>
 <div align="center">
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kerwindows&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
-
 <!-- Footer -->
 <div align="center">
   <p>⭐️ Thank you for visiting my profile! Let's connect.</p>
 </div>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=kerwindows&style=flat-square&color=blue" alt=""/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kerwindows&style=flat-square&color=blue" alt=""/></p>
