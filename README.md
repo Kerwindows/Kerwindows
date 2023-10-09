@@ -9,7 +9,7 @@
 |<p align="left">Featured Projects 🌟</p> | <p></p><a target="_blank" href="https://trailerview.kerwindows.com" title="Netflix UI Clone"> <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/netflix-ui-clone.jpg" alt="Netflix UI Clone" width="160" height="auto"/></a> <a href="https://linkwi.co" title="LinkWi Networking App"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/linkwi.jpg" width="160" height="auto" alt="LinkWi Networking App" width="160" height="auto"/></a>, <a target="_blank" title="Meme Shaing App" href="https://kerwindows.github.io/around-react"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/mem-sharing.jpg" alt="Meme Shaing App" width="160" height="auto"/></a> <a href="https://scholastica.cyversify.com/" title="Scholastica SIS App" target="_blank"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/sis.jpg" alt="Scholastica SIS App" width="160" height="auto"/></a><p></p>|
 |Email📫  | <p align="left">kerwindows@gmail.com</p> |
 |Socials|<p align="left"><a href="https://www.linkedin.com/in/kerwindows/"><img src="https://img.shields.io/badge/LinkedIn-Kerwindows-blue"></a></p>|
-|My Portfolio/📝 Blog |<p align="left"><a href="https://www.linkedin.com/in/kerwindows/">www.kerwindows.com</a></p>|
+|My Portfolio/📝 Blog |<p align="left"><a href="https://kerwindows.com">www.kerwindows.com</a></p>|
 
 
 <div align="center">
