@@ -1,4 +1,4 @@
-| <img align="left" style="border-radius:50%" src="[https://github.com/Kerwindows/Kerwindows/blob/main/files/me.jpeg](https://raw.githubusercontent.com/Kerwindows/Kerwindows/refs/heads/main/files/me.jpeg)" width=100> |<h1 align="left">Kerwin Thompson  </h1> | 
+| <img align="left" style="border-radius:50%" src="[https://github.com/Kerwindows/Kerwindows/blob/main/files/me.jpeg?raw=true](https://github.com/Kerwindows/Kerwindows/blob/main/files/me.jpeg?raw=true)" width=100> |<h1 align="left">Kerwin Thompson  </h1> | 
 | -------- | -------- |
 || <h2 align="left">Full Stack Application Developer</h2> <img align="left" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png" height=100><img align="left" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png" height=100>  |  
 |My Work Ethics | I am a passionate and dedicated web developer with expertise in creating fully responsive and dynamic web applications. I thrive on collaboration and networking with fellow developers and engineers, as I believe that fostering a strong sense of community and teamwork is essential for driving innovation and excellence in the field. |
