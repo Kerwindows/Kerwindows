@@ -48,7 +48,7 @@ Former educator turned entrepreneur; 9 years of teaching taught me patience, cle
 <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/figma.svg" height=50>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height=50> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height=50> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height=50> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" height=50> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=50> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height=50> 
