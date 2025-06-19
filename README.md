@@ -1,21 +1,29 @@
 # 👋 Welcome to My Digital Kingdom
 
-| <img align="left" style="border-radius:50%" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/kerwin.jpeg" width=100> |<h1 align="left">Kerwin Thompson</h1><h3 align="left">🐘 PHP Architect & JavaScript Virtuoso ⚡</h3> | 
+| <img align="left" style="border-radius:50%" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/kerwin.jpeg" width=100> |<h1 align="left">Kerwin Thompson </h1><h3 align="left"><img align="center" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/le-logo.jpg" height=80> Full Stack Developer   🐘 PHP Specialist </h3> | 
 | -------- | -------- |
-|| <h2 align="left">Full Stack Application Developer</h2> <img align="left" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png" height=100><img align="left" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png" height=100>  |
+
+
 
 ---
 
-## 🏆 My Digital Domain
+## 💼 About Me
 
-**🐘 PHP Emperor** *(self-proclaimed, but the code speaks for itself)*  
-Mastering PHP since elephants became the web's backbone. From vanilla PHP to Laravel frameworks, I architect backend solutions that scale and deliver.
+**Freelance Company Owner & Full Stack Developer** with a passion for building challenging custom applications. I run my own development company and have built custom applications for numerous clients across various industries. While I don't show off, I'm genuinely capable of delivering complex solutions from concept to deployment.
 
-**⚡ JavaScript Virtuoso**  
-Building interactive experiences with vanilla JS, React components, and Vue.js frameworks. If it runs in a browser, I've probably optimized it.
+I've explored various technologies including Go, Ruby on Rails, and others, but I have a strong preference for PHP and MySQL—call me a vintage enthusiast, but I genuinely love these tried-and-true technologies and understand their implications deeply.
 
-**🎓 Former Classroom Leader**  
-Evolved from shaping young minds for 9 years to crafting digital experiences. Teaching taught me patience—debugging taught me everything else.
+**What drives me:**
+- Building complex, custom web applications that solve real business problems
+- Working with JavaScript in all its forms—any framework, any library
+- Delivering reliable solutions that clients can depend on
+- Continuous learning and tackling new challenges
+
+**My approach:**
+I'm committed, easy to work with, and believe that good code should be both functional and maintainable. I code practically all the time (even if my GitHub doesn't always reflect it) and genuinely enjoy the problem-solving aspect of development.
+
+**Background:**
+Former educator turned entrepreneur; 9 years of teaching taught me patience, clear communication, and how to break down complex concepts into understandable pieces.
 
 ---
 
@@ -40,7 +48,7 @@ Evolved from shaping young minds for 9 years to crafting digital experiences. Te
 <img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/figma.svg" height=50>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height=50> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height=50> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height=50> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" height=50> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=50> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height=50> 
@@ -50,12 +58,14 @@ Evolved from shaping young minds for 9 years to crafting digital experiences. Te
 
 ---
 
-## 🎯 My Philosophy
+## 🎯 My Development Philosophy
 
-| **Code Craftsmanship** | I believe in writing code that doesn't just work, but tells a story. Every function has a purpose, every variable has meaning, and every commit moves us forward. PHP might be my specialty, but I speak fluent Full Stack. |
+| **Code Quality** | I believe in writing clean, maintainable code that serves both current needs and future growth. Every project is an opportunity to create something meaningful and lasting. |
 | -------- | -------- |
-| **The Human Element** | Behind every great application is a developer who remembers that real people use their creations. My teaching background reminds me daily that empathy is the most important skill in any developer's toolkit. |
-| **Continuous Evolution** | Technology moves fast, but curiosity moves faster. Whether it's exploring ancient civilizations or the latest JavaScript framework, I'm always learning, always growing, always questioning "what if we tried it this way?" |
+| **Client-Focused** | Real people use the applications I build. My teaching background keeps me grounded in creating user-friendly solutions that actually solve problems. |
+| **Continuous Growth** | Technology evolves rapidly, and so do I. Whether it's mastering a new JavaScript framework or diving deeper into backend optimization, I'm always learning and adapting. |
+| **AI-Enhanced Development** | I leverage AI tools to accelerate learning and development. What used to take years to master can now be accomplished in days or even minutes, allowing me to focus on solving complex problems and delivering value faster. |
+| **Collaborative Spirit** | Great applications are built by great teams. I value clear communication, constructive feedback, and the shared goal of delivering exceptional results. |
 
 ---
 
@@ -66,30 +76,25 @@ Evolved from shaping young minds for 9 years to crafting digital experiences. Te
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | <a href="https://trailerview.kerwindows.com" target="_blank"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/netflix-ui-clone.jpg" width="120"/></a> | **Netflix UI Clone**<br/>Pixel-perfect recreation with modern features | React, CSS3, API Integration |
-| <a href="https://linkwi.co" target="_blank"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/linkwi.jpg" width="120"/></a> | **LinkWi Networking**<br/>Professional connection platform | PHP, Laravel, MySQL, Vue |
-| <a href="https://scholastica.cyversify.com/" target="_blank"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/sis.jpg" width="120"/></a> | **Scholastica SIS**<br/>Complete school management system | PHP, Laravel, MySQL, jQuery |
+| <a href="https://linkwi.co" target="_blank"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/linkwi.jpg" width="120"/></a> | **LinkWi Networking**<br/>Professional connection platform | PHP, Laravel, MySQL, React |
+| <a href="https://scholastica.cyversify.com/" target="_blank"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/sis.jpg" width="120"/></a> | **Scholastica SIS**<br/>Complete school management system | PHP, Laravel, MySQL, Vue.js |
 | <a href="https://curricumate.com/" target="_blank"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/curricumate.jpg" width="120"/></a> | **Curricumate AI Assistant**<br/>AI-powered teaching companion | PHP, JavaScript, AI Integration |
 
 </div>
 
 ---
 
-## 🎭 Fun Facts About This Code Enthusiast
+## 📋 A Few Personal Notes
 
-- 🏫 **Former Educator**: Spent 9 years molding future minds—now I craft digital experiences  
-- 🏺 **History Buff**: Ancient civilizations fascinate me (probably why I appreciate well-architected legacy code)  
-- 🌍 **Global Perspective**: Collecting passport stamps and programming languages with equal enthusiasm  
-- 🎪 **The Humble Approach**: I might call myself a PHP Emperor, but I still Google basic syntax sometimes (we all do, right?)
-
----
-
-## 📈 Battle Statistics
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=kerwindows&theme=dark&background=000000" alt="GitHub Streak">
-</div>
+- **Former Educator**: 9 years in the classroom taught me patience, communication, and problem-solving
+- **Vintage Tech Enthusiast**: I genuinely prefer PHP and MySQL—not because I haven't tried others, but because I love what they can do
+- **Always Coding**: Whether it's client work or personal projects, I'm constantly building and experimenting
+- **Global Perspective**: I enjoy learning about different cultures and languages (both human and programming!)
+- **GitHub Reality Check**: My repositories here represent a fraction of my actual development work—much of my coding happens in private client projects
 
 ---
+
+
 
 ## 🤝 Let's Build Something Amazing Together
 
@@ -101,16 +106,16 @@ Evolved from shaping young minds for 9 years to crafting digital experiences. Te
 
 <div align="center">
 
-### 💭 *"Code is poetry written in logic, debugged with persistence, and deployed with confidence."*
+### 💭 *"Good code solves problems. Great code solves them elegantly."*
 
-**⚡ Currently accepting new adventures in Full Stack Development**
+**🚀 Open to new opportunities and exciting challenges**
 
 <p><img src="https://komarev.com/ghpvc/?username=kerwindows&style=flat-square&color=blue" alt="Profile Views"/></p>
 
-**⭐ Thanks for visiting my digital kingdom! Let's connect and create something extraordinary.**
+**⭐ Thank you for taking the time to review my work. I'd love to discuss how we can build something great together.**
 
 </div>
 
 ---
 
-> **Disclaimer**: While I may refer to myself as a PHP Emperor, I acknowledge that with great power comes great responsibility... and occasionally, great bugs. But hey, that's what makes it interesting! 🐛➡️🦋
+> **Note**: While this GitHub profile showcases some of my work, much of my development happens in private client repositories. I'm always happy to discuss specific projects and share additional code samples during our conversation.
